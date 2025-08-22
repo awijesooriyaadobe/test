@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/awijesooriyaadobe/test/
+    type: markup
+
+folders:
+  /products/: /products/default
